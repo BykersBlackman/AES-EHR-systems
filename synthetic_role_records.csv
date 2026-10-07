@@ -1,0 +1,301 @@
+patient_id,mrn,name,age,sex,blood_type,department,attending_doctor,attending_doctor_name,primary_nurse,primary_nurse_name,allergies,chronic_conditions,admission_date
+PAT0001,MRN-47601986,John Russo,60,Male,O-,Emergency,DOC018,Michele Sims,NUR001,Bob Carter,None recorded,COPD,2026-09-05 01:54
+PAT0002,MRN-63780078,Fred Martinez,1,Male,O+,Pediatrics,DOC013,Wanda Ortega,NUR019,Morgan Schmidt,Penicillin,None recorded,2026-03-21 07:33
+PAT0003,MRN-92808090,Patricia Frazier,29,Female,O+,Oncology,DOC009,Steven Dean,NUR014,Samantha Alvarez,Penicillin,Hypothyroidism; Asthma,2025-05-22 16:03
+PAT0004,MRN-96843094,Samantha Parker,39,Female,A-,Cardiology,DOC003,Lisa Brown,NUR003,Tina Nelson,Aspirin; Shellfish,Osteoarthritis,2024-09-20 13:00
+PAT0005,MRN-64594144,Jennifer Cannon,7,Female,B+,Pediatrics,DOC016,Mr. Benjamin Salas,NUR020,Sara Norris,None recorded,Asthma; Osteoarthritis,2025-12-15 11:49
+PAT0006,MRN-29000585,Melissa Gibson,53,Female,B+,Neurology,DOC023,Kevin Burton,NUR030,Michael Wong,Peanuts,Chronic kidney disease; Hypothyroidism,2026-06-09 04:06
+PAT0007,MRN-63832569,Danielle Black,74,Female,O+,Cardiology,DOC001,Alice Bennett,NUR005,Jennifer Glenn,Peanuts; Aspirin,Hypothyroidism; Osteoarthritis,2026-01-11 21:26
+PAT0008,MRN-19699021,Robert Moody,17,Male,O+,Emergency,DOC018,Michele Sims,NUR027,Mark Williams,Iodine contrast; Aspirin,Osteoarthritis,2026-08-29 01:57
+PAT0009,MRN-28711720,Jeffrey Carr,16,Male,A+,Pediatrics,DOC014,Elizabeth Powell,NUR021,Angela Flores,Pollen; Penicillin,None recorded,2025-09-10 05:13
+PAT0010,MRN-21392938,Brandon Miller,7,Male,O+,Pediatrics,DOC013,Wanda Ortega,NUR017,Christina Ross,Iodine contrast,Asthma,2026-08-09 01:19
+PAT0011,MRN-99723443,Ashley Reed,17,Female,A+,Neurology,DOC022,Jacqueline Henderson,NUR032,Michael Green MD,None recorded,None recorded,2026-09-08 07:33
+PAT0012,MRN-71578641,Stephanie Nielsen,70,Female,O+,Emergency,DOC019,Stephanie Ross,NUR028,Patrick Hill,Sulfa drugs; Penicillin,None recorded,2025-11-16 12:20
+PAT0013,MRN-85524620,Tony Reed,58,Male,AB+,Cardiology,DOC003,Lisa Brown,NUR009,Jason Ward,Sulfa drugs; Peanuts,Hypertension; Type 2 diabetes,2024-06-30 11:28
+PAT0014,MRN-12218784,Jaime Lee,72,Male,AB-,Oncology,DOC009,Steven Dean,NUR015,Jonathan Bradley,Shellfish; Latex,Type 2 diabetes,2025-12-24 11:08
+PAT0015,MRN-16922135,Heidi Welch,48,Female,A+,Cardiology,DOC001,Alice Bennett,NUR006,Sarah Martin,Shellfish; Latex,Depression,2026-01-20 18:59
+PAT0016,MRN-64797507,James Robinson,84,Male,AB+,Oncology,DOC011,Julie Jennings,NUR015,Jonathan Bradley,Shellfish; Latex,Depression,2026-07-24 21:25
+PAT0017,MRN-78381205,Kimberly Patrick,73,Female,A+,Neurology,DOC025,Michael Jackson,NUR032,Michael Green MD,Pollen,Depression,2025-06-08 18:05
+PAT0018,MRN-64088176,Mallory Hammond,71,Female,A+,Neurology,DOC022,Jacqueline Henderson,NUR035,Brian Foster,Shellfish; Pollen,None recorded,2024-05-23 12:34
+PAT0019,MRN-26219765,Andrew Solomon,80,Male,O+,Cardiology,DOC005,Bradley Anderson,NUR006,Sarah Martin,None recorded,Chronic kidney disease,2025-09-02 15:29
+PAT0020,MRN-26367443,Tim Wagner,59,Male,O+,Neurology,DOC002,Evan Ramirez,NUR033,Christopher Murray,None recorded,Asthma,2024-10-08 15:30
+PAT0021,MRN-95316271,Aaron Kelly,17,Male,O+,Neurology,DOC025,Michael Jackson,NUR030,Michael Wong,Shellfish,None recorded,2025-08-31 19:56
+PAT0022,MRN-47317234,Morgan Livingston,55,Female,O+,Oncology,DOC009,Steven Dean,NUR016,Crystal Montgomery,Aspirin,None recorded,2025-03-01 21:37
+PAT0023,MRN-26002234,Richard Williams,24,Male,B+,Emergency,DOC017,Brian Salazar,NUR024,Anthony Collier,Shellfish,None recorded,2024-12-26 05:23
+PAT0024,MRN-88598111,Maria Dodson,18,Female,O-,Neurology,DOC023,Kevin Burton,NUR034,Kenneth Martin,Pollen,Asthma,2025-01-17 16:56
+PAT0025,MRN-63884045,Daniel Phillips,22,Male,A+,Emergency,DOC017,Brian Salazar,NUR028,Patrick Hill,None recorded,Osteoarthritis,2026-08-22 17:24
+PAT0026,MRN-31353134,Phillip Fields,55,Male,A+,Neurology,DOC022,Jacqueline Henderson,NUR029,Pamela French,Latex; Penicillin,COPD,2025-09-07 19:53
+PAT0027,MRN-12119238,Jacqueline Harrison,66,Female,O-,Emergency,DOC017,Brian Salazar,NUR026,Jacob Washington,Latex,Asthma,2025-01-14 09:45
+PAT0028,MRN-29615554,Erica Yates,25,Female,O+,Neurology,DOC022,Jacqueline Henderson,NUR032,Michael Green MD,Latex,Depression,2026-02-21 08:34
+PAT0029,MRN-10998828,Sarah Deleon,71,Female,A+,Oncology,DOC011,Julie Jennings,NUR015,Jonathan Bradley,Peanuts,None recorded,2024-08-20 14:47
+PAT0030,MRN-78840031,Amy Sandoval,49,Female,O+,Oncology,DOC009,Steven Dean,NUR010,Kevin Gordon,Iodine contrast,None recorded,2025-07-27 23:47
+PAT0031,MRN-40899780,Nicholas Doyle,44,Male,B+,Neurology,DOC002,Evan Ramirez,NUR033,Christopher Murray,Penicillin; Shellfish,None recorded,2024-05-09 00:54
+PAT0032,MRN-25730186,James Thompson,4,Male,B+,Pediatrics,DOC013,Wanda Ortega,NUR017,Christina Ross,Shellfish; Penicillin,None recorded,2026-08-03 03:00
+PAT0033,MRN-97913851,David Young,66,Male,A+,Oncology,DOC007,Heather Taylor,NUR016,Crystal Montgomery,Penicillin,Hypothyroidism; COPD,2025-02-14 15:51
+PAT0034,MRN-17169872,Sherri Myers,43,Female,O+,Cardiology,DOC006,Mr. Christopher Sanchez,NUR005,Jennifer Glenn,Penicillin,None recorded,2025-01-08 10:03
+PAT0035,MRN-47179936,Sandra Webster,41,Female,B-,Cardiology,DOC001,Alice Bennett,NUR003,Tina Nelson,Penicillin; Latex,None recorded,2025-01-22 10:20
+PAT0036,MRN-60775455,Karen Baker,6,Female,A+,Pediatrics,DOC012,Hannah Franco,NUR021,Angela Flores,Penicillin; Sulfa drugs,Osteoarthritis; Hypertension,2025-02-23 00:41
+PAT0037,MRN-79223713,Paul Stafford,58,Male,O+,Oncology,DOC008,Lawrence Brown,NUR014,Samantha Alvarez,None recorded,Depression,2026-08-21 04:59
+PAT0038,MRN-30343242,Thomas Mcdonald,63,Male,O+,Oncology,DOC007,Heather Taylor,NUR012,Corey Paul,Pollen,Chronic kidney disease,2025-09-01 18:17
+PAT0039,MRN-80347984,Raymond Vincent,1,Male,A+,Pediatrics,DOC016,Mr. Benjamin Salas,NUR018,Christina Bradley,Aspirin; Iodine contrast,None recorded,2024-06-03 10:43
+PAT0040,MRN-18175760,Elizabeth Miller,80,Female,A+,Emergency,DOC017,Brian Salazar,NUR025,Sharon Wright,None recorded,Chronic kidney disease,2025-09-28 21:34
+PAT0041,MRN-71779167,Julia White,43,Female,B+,Neurology,DOC022,Jacqueline Henderson,NUR029,Pamela French,None recorded,Chronic kidney disease; Hypothyroidism,2024-07-03 00:45
+PAT0042,MRN-71246849,Grant Hooper,63,Male,O+,Cardiology,DOC005,Bradley Anderson,NUR007,Austin Young,None recorded,COPD; Asthma,2024-11-03 06:39
+PAT0043,MRN-51749993,Justin Patel,78,Male,A+,Oncology,DOC009,Steven Dean,NUR016,Crystal Montgomery,Peanuts,None recorded,2024-05-05 05:20
+PAT0044,MRN-76775626,Monica Brown,3,Female,A+,Pediatrics,DOC015,Janet Norris,NUR017,Christina Ross,None recorded,None recorded,2025-08-17 04:40
+PAT0045,MRN-33897442,Philip Strickland,1,Male,O+,Pediatrics,DOC016,Mr. Benjamin Salas,NUR002,Fiona Doyle,None recorded,None recorded,2024-09-30 06:39
+PAT0046,MRN-45582913,Andrea Hernandez,44,Female,O+,Emergency,DOC017,Brian Salazar,NUR025,Sharon Wright,None recorded,Chronic kidney disease,2024-10-16 15:17
+PAT0047,MRN-64824618,Kevin Scott,92,Male,A+,Emergency,DOC018,Michele Sims,NUR025,Sharon Wright,Shellfish; Pollen,COPD; Asthma,2026-06-28 18:13
+PAT0048,MRN-84230681,Anthony Clark,0,Male,A+,Pediatrics,DOC013,Wanda Ortega,NUR019,Morgan Schmidt,None recorded,None recorded,2025-06-24 18:42
+PAT0049,MRN-73788149,Jacob Larson,71,Male,O+,Cardiology,DOC006,Mr. Christopher Sanchez,NUR006,Sarah Martin,Penicillin; Peanuts,COPD; Hypothyroidism,2024-06-15 00:24
+PAT0050,MRN-14543841,Lisa Garcia,70,Female,B+,Neurology,DOC024,Donald Keller,NUR029,Pamela French,None recorded,None recorded,2025-07-07 09:39
+PAT0051,MRN-93699902,Ronald Williams,92,Male,A-,Emergency,DOC018,Michele Sims,NUR026,Jacob Washington,None recorded,None recorded,2024-05-05 01:10
+PAT0052,MRN-32694526,Sandra Kramer,94,Female,A+,Neurology,DOC022,Jacqueline Henderson,NUR033,Christopher Murray,Peanuts; Penicillin,COPD; Asthma,2024-10-19 23:53
+PAT0053,MRN-70098106,Patricia Edwards,42,Female,A+,Emergency,DOC019,Stephanie Ross,NUR027,Mark Williams,None recorded,Hypothyroidism,2025-08-12 08:07
+PAT0054,MRN-24319554,Karl Armstrong,87,Male,A+,Emergency,DOC017,Brian Salazar,NUR023,Justin Jacobs,None recorded,None recorded,2024-05-11 05:06
+PAT0055,MRN-32725553,Kathy White,23,Female,O+,Emergency,DOC020,Gerald Campbell,NUR024,Anthony Collier,Shellfish; Sulfa drugs,Osteoarthritis,2026-02-03 01:48
+PAT0056,MRN-87688288,Julie Ramirez,17,Female,O+,Cardiology,DOC005,Bradley Anderson,NUR007,Austin Young,Peanuts; Penicillin,Asthma,2025-10-18 00:48
+PAT0057,MRN-19096076,Morgan Greer,28,Female,O+,Neurology,DOC025,Michael Jackson,NUR031,Timothy Olsen,Latex; Aspirin,Osteoarthritis; Depression,2025-12-27 13:14
+PAT0058,MRN-77946520,Jennifer Fields PhD,88,Female,O-,Emergency,DOC018,Michele Sims,NUR027,Mark Williams,Pollen; Shellfish,None recorded,2024-06-14 00:58
+PAT0059,MRN-69295267,Jessica Farmer,44,Female,A+,Oncology,DOC010,Matthew Ray,NUR010,Kevin Gordon,None recorded,None recorded,2024-12-18 22:41
+PAT0060,MRN-64018012,Martin Hill,38,Male,O+,Cardiology,DOC005,Bradley Anderson,NUR007,Austin Young,None recorded,Depression; Asthma,2025-11-28 21:31
+PAT0061,MRN-43424541,Morgan Mcguire,56,Female,A+,Neurology,DOC024,Donald Keller,NUR031,Timothy Olsen,None recorded,None recorded,2026-03-28 19:13
+PAT0062,MRN-15720787,Nathaniel Castillo,16,Male,O+,Oncology,DOC011,Julie Jennings,NUR015,Jonathan Bradley,None recorded,Type 2 diabetes; Asthma,2024-05-09 04:37
+PAT0063,MRN-68481338,Matthew Blake,85,Male,A-,Neurology,DOC025,Michael Jackson,NUR031,Timothy Olsen,Penicillin,None recorded,2025-10-30 22:41
+PAT0064,MRN-55988627,Denise Larson,4,Female,A+,Pediatrics,DOC014,Elizabeth Powell,NUR022,Susan Lopez,Latex,Osteoarthritis; Depression,2025-05-29 06:58
+PAT0065,MRN-44020632,Christina Wolfe,91,Female,O+,Emergency,DOC020,Gerald Campbell,NUR028,Patrick Hill,Aspirin,COPD,2026-01-26 09:07
+PAT0066,MRN-82490959,Mary Choi,92,Female,A+,Cardiology,DOC003,Lisa Brown,NUR008,Steven Ross,Latex,Type 2 diabetes,2025-01-13 22:25
+PAT0067,MRN-24034755,Matthew Crawford,74,Male,A+,Neurology,DOC024,Donald Keller,NUR035,Brian Foster,Pollen,Type 2 diabetes; Hypertension,2025-03-29 14:03
+PAT0068,MRN-59176662,John Cox,74,Male,O+,Emergency,DOC020,Gerald Campbell,NUR001,Bob Carter,Aspirin; Peanuts,COPD; Hypertension,2025-06-19 12:25
+PAT0069,MRN-36673323,Emily Peters,31,Female,O+,Oncology,DOC007,Heather Taylor,NUR014,Samantha Alvarez,None recorded,None recorded,2026-03-01 04:23
+PAT0070,MRN-23440021,Christopher Cantrell,90,Male,O+,Emergency,DOC019,Stephanie Ross,NUR025,Sharon Wright,None recorded,COPD; Hypothyroidism,2025-02-08 04:42
+PAT0071,MRN-15451467,Russell Hudson,34,Male,O+,Cardiology,DOC001,Alice Bennett,NUR007,Austin Young,Sulfa drugs,None recorded,2024-05-13 11:23
+PAT0072,MRN-85553250,Nathan Scott,76,Male,A+,Oncology,DOC011,Julie Jennings,NUR010,Kevin Gordon,Penicillin,Hypothyroidism,2024-10-01 02:58
+PAT0073,MRN-78521712,Amy Williams,80,Female,O+,Cardiology,DOC005,Bradley Anderson,NUR009,Jason Ward,Iodine contrast; Latex,Hypertension,2024-12-07 12:55
+PAT0074,MRN-45331650,Rick Martinez,85,Male,O+,Neurology,DOC022,Jacqueline Henderson,NUR031,Timothy Olsen,None recorded,Hypothyroidism; Osteoarthritis,2025-05-28 11:31
+PAT0075,MRN-69121755,Chelsea Stone,57,Female,O+,Cardiology,DOC001,Alice Bennett,NUR005,Jennifer Glenn,None recorded,Chronic kidney disease,2026-05-09 02:06
+PAT0076,MRN-65699108,Roger Cunningham,85,Male,O+,Oncology,DOC007,Heather Taylor,NUR011,Katie Cook,Pollen; Penicillin,None recorded,2024-12-10 23:49
+PAT0077,MRN-77720740,Anna Moore,49,Female,A-,Oncology,DOC008,Lawrence Brown,NUR010,Kevin Gordon,Penicillin,None recorded,2024-07-14 12:04
+PAT0078,MRN-49958643,Kelly Crane,34,Female,B+,Neurology,DOC022,Jacqueline Henderson,NUR033,Christopher Murray,Penicillin,Osteoarthritis,2026-07-08 00:02
+PAT0079,MRN-52070596,Sherry Sutton,2,Female,A+,Pediatrics,DOC012,Hannah Franco,NUR002,Fiona Doyle,Sulfa drugs,None recorded,2026-02-20 20:45
+PAT0080,MRN-26358853,Stephanie Callahan,46,Female,A+,Neurology,DOC002,Evan Ramirez,NUR033,Christopher Murray,Latex; Iodine contrast,None recorded,2026-01-19 02:35
+PAT0081,MRN-85839928,Gregory Short,25,Male,A+,Emergency,DOC017,Brian Salazar,NUR024,Anthony Collier,None recorded,Chronic kidney disease; Osteoarthritis,2025-07-17 14:57
+PAT0082,MRN-75909661,Scott White,4,Male,O-,Pediatrics,DOC015,Janet Norris,NUR018,Christina Bradley,None recorded,None recorded,2025-02-05 04:04
+PAT0083,MRN-48819157,David Fowler,91,Male,A+,Emergency,DOC021,Robert Hart,NUR028,Patrick Hill,None recorded,Asthma,2026-03-02 00:42
+PAT0084,MRN-75322429,Felicia Perry,49,Female,O+,Oncology,DOC010,Matthew Ray,NUR012,Corey Paul,Iodine contrast; Aspirin,Chronic kidney disease; Type 2 diabetes,2026-09-18 20:26
+PAT0085,MRN-98302921,Andrew Castro,72,Male,B+,Cardiology,DOC004,Michael May,NUR003,Tina Nelson,None recorded,Chronic kidney disease,2026-08-17 23:53
+PAT0086,MRN-43460858,Steven Gomez,4,Male,O+,Pediatrics,DOC016,Mr. Benjamin Salas,NUR018,Christina Bradley,None recorded,Hypertension; Asthma,2024-12-27 17:09
+PAT0087,MRN-60589118,Steven Norton,88,Male,O+,Cardiology,DOC005,Bradley Anderson,NUR009,Jason Ward,Aspirin,Hypertension,2025-09-22 10:11
+PAT0088,MRN-96534306,Henry Monroe,63,Male,A+,Oncology,DOC007,Heather Taylor,NUR014,Samantha Alvarez,None recorded,Hypertension,2024-06-29 00:53
+PAT0089,MRN-91163484,George Bryant,85,Male,A+,Cardiology,DOC003,Lisa Brown,NUR007,Austin Young,Iodine contrast; Aspirin,None recorded,2026-01-19 22:31
+PAT0090,MRN-57924055,William Velez,92,Male,O+,Emergency,DOC018,Michele Sims,NUR001,Bob Carter,Sulfa drugs; Penicillin,Osteoarthritis,2026-08-24 07:43
+PAT0091,MRN-17374230,Vicki Riley,23,Female,B+,Cardiology,DOC004,Michael May,NUR009,Jason Ward,Sulfa drugs; Pollen,Hypothyroidism; Osteoarthritis,2025-07-26 01:26
+PAT0092,MRN-91637407,Tracy Moore,60,Female,B+,Neurology,DOC024,Donald Keller,NUR033,Christopher Murray,Sulfa drugs,Osteoarthritis; Depression,2026-06-05 08:56
+PAT0093,MRN-85132721,Colleen Haas,15,Female,O+,Pediatrics,DOC013,Wanda Ortega,NUR018,Christina Bradley,Iodine contrast,COPD; Depression,2025-04-09 00:42
+PAT0094,MRN-66945386,Julia Jenkins,62,Female,A-,Cardiology,DOC004,Michael May,NUR004,Claire Wells,None recorded,Hypothyroidism,2026-03-29 06:36
+PAT0095,MRN-22344164,Curtis Berry,68,Male,A+,Cardiology,DOC003,Lisa Brown,NUR005,Jennifer Glenn,None recorded,None recorded,2026-03-23 19:47
+PAT0096,MRN-80297000,Rebecca Clark,80,Female,A+,Emergency,DOC018,Michele Sims,NUR026,Jacob Washington,None recorded,Hypertension,2026-01-02 17:35
+PAT0097,MRN-72897998,Manuel Anderson,79,Male,O+,Cardiology,DOC001,Alice Bennett,NUR007,Austin Young,Shellfish,COPD,2025-04-25 14:41
+PAT0098,MRN-56802587,Jasmine Bell,55,Female,O+,Emergency,DOC020,Gerald Campbell,NUR027,Mark Williams,None recorded,Type 2 diabetes; Osteoarthritis,2025-12-31 05:42
+PAT0099,MRN-65721789,Christopher Baldwin,51,Male,O+,Emergency,DOC018,Michele Sims,NUR024,Anthony Collier,Latex,None recorded,2025-01-22 06:54
+PAT0100,MRN-58542326,Mrs. Jillian Ingram,24,Female,A+,Emergency,DOC017,Brian Salazar,NUR028,Patrick Hill,Penicillin,None recorded,2024-09-23 17:31
+PAT0101,MRN-87534130,Derek Gardner,63,Male,O-,Neurology,DOC022,Jacqueline Henderson,NUR030,Michael Wong,Aspirin; Pollen,Depression,2024-06-18 14:46
+PAT0102,MRN-50516884,Erin Young,79,Female,B-,Cardiology,DOC003,Lisa Brown,NUR003,Tina Nelson,Sulfa drugs; Latex,Chronic kidney disease,2025-09-06 16:07
+PAT0103,MRN-77163493,Amy Davis,91,Female,O+,Emergency,DOC021,Robert Hart,NUR027,Mark Williams,Penicillin; Latex,Type 2 diabetes; Hypertension,2025-06-14 07:38
+PAT0104,MRN-94575937,Evelyn Lam,62,Female,O+,Emergency,DOC018,Michele Sims,NUR025,Sharon Wright,Latex,None recorded,2026-02-21 04:33
+PAT0105,MRN-98569438,Thomas Mcdonald,85,Male,O+,Emergency,DOC017,Brian Salazar,NUR027,Mark Williams,Peanuts,Osteoarthritis; Asthma,2025-07-13 08:19
+PAT0106,MRN-96212268,Jennifer Carr,37,Female,O-,Cardiology,DOC006,Mr. Christopher Sanchez,NUR005,Jennifer Glenn,Sulfa drugs; Latex,Osteoarthritis,2025-02-14 02:36
+PAT0107,MRN-27970638,Stephanie Garcia,12,Female,A-,Pediatrics,DOC015,Janet Norris,NUR022,Susan Lopez,Pollen,None recorded,2026-04-17 17:05
+PAT0108,MRN-38435981,Sydney Vasquez,3,Female,O+,Pediatrics,DOC012,Hannah Franco,NUR020,Sara Norris,Shellfish,Asthma,2025-09-14 17:59
+PAT0109,MRN-49454631,Christopher Franklin,16,Male,AB+,Pediatrics,DOC016,Mr. Benjamin Salas,NUR021,Angela Flores,Peanuts,Hypertension,2024-08-14 05:43
+PAT0110,MRN-72091056,James Gomez,90,Male,O+,Cardiology,DOC001,Alice Bennett,NUR006,Sarah Martin,None recorded,None recorded,2025-04-07 04:26
+PAT0111,MRN-72986327,Stephanie Griffin,53,Female,A+,Neurology,DOC002,Evan Ramirez,NUR035,Brian Foster,Latex; Peanuts,Asthma,2025-01-03 02:37
+PAT0112,MRN-43484208,Brian Davis,83,Male,O+,Emergency,DOC021,Robert Hart,NUR001,Bob Carter,Iodine contrast,Chronic kidney disease,2024-04-25 14:24
+PAT0113,MRN-76531897,Jason Torres,24,Male,A+,Emergency,DOC020,Gerald Campbell,NUR024,Anthony Collier,Shellfish; Aspirin,Type 2 diabetes; Osteoarthritis,2024-06-20 06:06
+PAT0114,MRN-77000357,Christopher Gutierrez,53,Male,A+,Cardiology,DOC004,Michael May,NUR007,Austin Young,Shellfish; Iodine contrast,None recorded,2025-02-27 12:36
+PAT0115,MRN-73816419,Michael Barron,72,Male,O+,Neurology,DOC002,Evan Ramirez,NUR030,Michael Wong,Sulfa drugs; Latex,Asthma; Hypothyroidism,2025-12-10 20:19
+PAT0116,MRN-58070805,Patricia Poole,66,Female,O+,Emergency,DOC017,Brian Salazar,NUR024,Anthony Collier,Penicillin,Asthma,2025-11-07 04:48
+PAT0117,MRN-77578741,Joe Torres,3,Male,A+,Pediatrics,DOC015,Janet Norris,NUR017,Christina Ross,Iodine contrast,None recorded,2026-07-14 08:10
+PAT0118,MRN-78086709,Heather Pruitt,56,Female,B+,Emergency,DOC018,Michele Sims,NUR024,Anthony Collier,None recorded,Osteoarthritis,2025-08-15 11:14
+PAT0119,MRN-33310873,Andrea Gomez,2,Female,AB+,Pediatrics,DOC012,Hannah Franco,NUR017,Christina Ross,Latex,Asthma; Chronic kidney disease,2024-07-04 01:15
+PAT0120,MRN-41441257,Tara Porter,72,Female,O+,Neurology,DOC022,Jacqueline Henderson,NUR030,Michael Wong,Iodine contrast,None recorded,2025-08-10 10:25
+PAT0121,MRN-83615965,Annette Friedman,35,Female,O+,Cardiology,DOC006,Mr. Christopher Sanchez,NUR005,Jennifer Glenn,Aspirin; Shellfish,Hypertension; Hypothyroidism,2024-10-31 20:57
+PAT0122,MRN-21459291,Alyssa Baker,93,Female,O+,Cardiology,DOC006,Mr. Christopher Sanchez,NUR003,Tina Nelson,Iodine contrast; Peanuts,COPD,2025-08-28 05:18
+PAT0123,MRN-62742922,Ashley Mason,39,Female,A+,Emergency,DOC018,Michele Sims,NUR028,Patrick Hill,Penicillin; Sulfa drugs,Hypothyroidism,2025-01-29 10:05
+PAT0124,MRN-43371542,Keith Davis,70,Male,B+,Cardiology,DOC004,Michael May,NUR008,Steven Ross,Sulfa drugs; Iodine contrast,Hypertension,2025-05-30 22:40
+PAT0125,MRN-11760680,Michael Flores,5,Male,A+,Pediatrics,DOC015,Janet Norris,NUR022,Susan Lopez,None recorded,None recorded,2024-07-04 14:18
+PAT0126,MRN-13628790,Kelsey Sanchez,75,Female,O+,Emergency,DOC018,Michele Sims,NUR028,Patrick Hill,None recorded,Depression; Type 2 diabetes,2024-12-16 04:19
+PAT0127,MRN-80940693,Jenny Nielsen,33,Female,O+,Emergency,DOC019,Stephanie Ross,NUR001,Bob Carter,Penicillin; Aspirin,Type 2 diabetes; COPD,2026-04-04 20:14
+PAT0128,MRN-82948056,Sarah Smith,3,Female,A+,Pediatrics,DOC014,Elizabeth Powell,NUR020,Sara Norris,Peanuts,None recorded,2025-01-30 21:36
+PAT0129,MRN-32160202,Katelyn Jones,37,Female,O+,Emergency,DOC017,Brian Salazar,NUR027,Mark Williams,None recorded,Osteoarthritis; Hypothyroidism,2026-08-12 16:46
+PAT0130,MRN-48706634,Allison Adams,52,Female,O+,Oncology,DOC009,Steven Dean,NUR010,Kevin Gordon,Iodine contrast,Osteoarthritis,2025-12-19 20:46
+PAT0131,MRN-12556034,George Jackson,16,Male,A+,Pediatrics,DOC012,Hannah Franco,NUR019,Morgan Schmidt,None recorded,Chronic kidney disease; Type 2 diabetes,2025-05-03 00:40
+PAT0132,MRN-25189054,Jennifer Cooper,63,Female,O+,Cardiology,DOC004,Michael May,NUR004,Claire Wells,Shellfish; Pollen,COPD,2024-07-04 00:03
+PAT0133,MRN-72698429,Amanda Thompson,65,Female,A+,Emergency,DOC017,Brian Salazar,NUR026,Jacob Washington,Pollen,Hypothyroidism; Asthma,2026-03-25 10:14
+PAT0134,MRN-99342727,Aimee Berger,82,Female,O+,Neurology,DOC023,Kevin Burton,NUR031,Timothy Olsen,None recorded,None recorded,2026-02-09 17:43
+PAT0135,MRN-49858061,Tina Bush,49,Female,O+,Emergency,DOC021,Robert Hart,NUR028,Patrick Hill,None recorded,None recorded,2024-10-24 10:09
+PAT0136,MRN-50099784,Teresa Ho,5,Female,A+,Pediatrics,DOC015,Janet Norris,NUR019,Morgan Schmidt,None recorded,Type 2 diabetes; COPD,2025-06-17 06:37
+PAT0137,MRN-38486583,Lori Rice,13,Female,A+,Pediatrics,DOC014,Elizabeth Powell,NUR002,Fiona Doyle,Peanuts,Hypothyroidism,2025-08-18 16:43
+PAT0138,MRN-90595667,Amanda Garner,10,Female,O-,Pediatrics,DOC016,Mr. Benjamin Salas,NUR021,Angela Flores,Shellfish; Penicillin,None recorded,2024-07-18 23:29
+PAT0139,MRN-29759444,Mrs. Rebecca Beck,19,Female,O+,Cardiology,DOC004,Michael May,NUR007,Austin Young,Aspirin; Penicillin,Chronic kidney disease; Asthma,2024-07-02 05:53
+PAT0140,MRN-60134756,Jason Weeks,43,Male,A+,Neurology,DOC022,Jacqueline Henderson,NUR034,Kenneth Martin,Latex; Shellfish,Osteoarthritis,2025-09-29 20:08
+PAT0141,MRN-20889312,Karen Mata,10,Female,B+,Pediatrics,DOC013,Wanda Ortega,NUR021,Angela Flores,Latex; Penicillin,None recorded,2026-08-26 17:27
+PAT0142,MRN-13791324,Sarah Davis,14,Female,A+,Pediatrics,DOC014,Elizabeth Powell,NUR022,Susan Lopez,Penicillin; Shellfish,None recorded,2025-02-14 16:15
+PAT0143,MRN-95400225,Eric Brown,22,Male,O+,Oncology,DOC011,Julie Jennings,NUR011,Katie Cook,Pollen,Depression,2026-07-17 20:47
+PAT0144,MRN-46291436,Anne Hicks,9,Female,O-,Pediatrics,DOC014,Elizabeth Powell,NUR017,Christina Ross,Iodine contrast; Peanuts,Asthma,2025-12-03 15:52
+PAT0145,MRN-42542353,Tammy Green,88,Female,B+,Oncology,DOC009,Steven Dean,NUR014,Samantha Alvarez,Shellfish,None recorded,2026-08-11 09:36
+PAT0146,MRN-19479947,Joseph Friedman,46,Male,A+,Emergency,DOC017,Brian Salazar,NUR001,Bob Carter,Iodine contrast,None recorded,2026-08-13 08:43
+PAT0147,MRN-27450966,Heidi Day,54,Female,O+,Emergency,DOC020,Gerald Campbell,NUR027,Mark Williams,None recorded,Hypothyroidism,2024-08-07 20:32
+PAT0148,MRN-29352084,Scott Mcpherson,87,Male,O+,Emergency,DOC018,Michele Sims,NUR023,Justin Jacobs,Penicillin; Aspirin,Type 2 diabetes,2025-12-25 23:56
+PAT0149,MRN-29856352,Larry Saunders,56,Male,O+,Emergency,DOC017,Brian Salazar,NUR028,Patrick Hill,Iodine contrast; Pollen,Type 2 diabetes; COPD,2026-03-23 15:14
+PAT0150,MRN-73593227,Michael Hendricks,31,Male,A+,Oncology,DOC011,Julie Jennings,NUR016,Crystal Montgomery,None recorded,None recorded,2025-09-22 21:21
+PAT0151,MRN-68169288,Lisa Lopez,89,Female,O+,Neurology,DOC024,Donald Keller,NUR035,Brian Foster,None recorded,Hypertension,2024-09-17 21:41
+PAT0152,MRN-34443820,Andrew Hamilton,24,Male,A+,Neurology,DOC023,Kevin Burton,NUR033,Christopher Murray,Peanuts,COPD,2025-05-09 06:45
+PAT0153,MRN-84129731,Bill Wood,44,Male,O-,Emergency,DOC019,Stephanie Ross,NUR028,Patrick Hill,None recorded,Hypothyroidism,2024-06-24 03:56
+PAT0154,MRN-68309192,Sean Jones,60,Male,A+,Neurology,DOC024,Donald Keller,NUR035,Brian Foster,Latex,None recorded,2024-07-17 09:48
+PAT0155,MRN-64154599,Robert Shea,35,Male,A+,Emergency,DOC021,Robert Hart,NUR024,Anthony Collier,Latex; Penicillin,Asthma; Hypothyroidism,2025-02-01 21:22
+PAT0156,MRN-56779789,Benjamin Manning,12,Male,O+,Pediatrics,DOC015,Janet Norris,NUR018,Christina Bradley,Iodine contrast; Aspirin,Asthma; Hypothyroidism,2024-11-26 05:16
+PAT0157,MRN-61866440,Shannon Lopez,9,Female,A+,Pediatrics,DOC013,Wanda Ortega,NUR022,Susan Lopez,Penicillin; Pollen,None recorded,2025-03-02 19:04
+PAT0158,MRN-31248313,Renee Cole,33,Female,A-,Oncology,DOC007,Heather Taylor,NUR014,Samantha Alvarez,Pollen; Aspirin,Hypertension,2026-05-07 23:57
+PAT0159,MRN-84702306,Melissa Navarro,53,Female,O+,Emergency,DOC018,Michele Sims,NUR026,Jacob Washington,None recorded,Chronic kidney disease; Asthma,2024-05-24 02:23
+PAT0160,MRN-42810750,Amy Jacobs,30,Female,A+,Neurology,DOC023,Kevin Burton,NUR030,Michael Wong,Shellfish,Depression,2025-05-18 13:47
+PAT0161,MRN-57316708,James Thompson,27,Male,A+,Cardiology,DOC006,Mr. Christopher Sanchez,NUR006,Sarah Martin,None recorded,COPD,2025-04-09 06:24
+PAT0162,MRN-92604976,Tyler Perry,6,Male,B+,Pediatrics,DOC015,Janet Norris,NUR018,Christina Bradley,Aspirin; Iodine contrast,Asthma,2025-06-26 18:00
+PAT0163,MRN-23403945,James Morgan,75,Male,A+,Neurology,DOC022,Jacqueline Henderson,NUR030,Michael Wong,Pollen; Iodine contrast,None recorded,2025-06-19 08:54
+PAT0164,MRN-38232484,Robert Walker,1,Male,A+,Pediatrics,DOC016,Mr. Benjamin Salas,NUR002,Fiona Doyle,Aspirin; Latex,Hypertension; Chronic kidney disease,2026-03-20 11:46
+PAT0165,MRN-91487116,Cassie Blake,54,Female,O+,Neurology,DOC023,Kevin Burton,NUR034,Kenneth Martin,None recorded,None recorded,2025-04-28 11:31
+PAT0166,MRN-53906833,Lisa Becker,59,Female,O+,Emergency,DOC019,Stephanie Ross,NUR025,Sharon Wright,Penicillin; Pollen,None recorded,2026-08-08 09:36
+PAT0167,MRN-56664344,Natalie Henson,59,Female,O+,Emergency,DOC019,Stephanie Ross,NUR024,Anthony Collier,Aspirin; Penicillin,COPD; Type 2 diabetes,2025-04-21 01:43
+PAT0168,MRN-59443050,Nicole Wagner,93,Female,O+,Oncology,DOC007,Heather Taylor,NUR013,Julie Gonzalez,Aspirin,Hypothyroidism,2025-08-07 12:01
+PAT0169,MRN-13747046,Nancy Mckay,27,Female,O+,Neurology,DOC024,Donald Keller,NUR032,Michael Green MD,None recorded,Asthma,2026-08-08 13:50
+PAT0170,MRN-30213210,Leslie Lawrence,3,Female,O+,Pediatrics,DOC012,Hannah Franco,NUR020,Sara Norris,None recorded,Type 2 diabetes; Osteoarthritis,2024-06-07 03:33
+PAT0171,MRN-87463564,David Hayden,61,Male,A+,Emergency,DOC020,Gerald Campbell,NUR025,Sharon Wright,None recorded,Type 2 diabetes; Depression,2025-11-28 10:03
+PAT0172,MRN-23258004,Joshua Davis,20,Male,B-,Cardiology,DOC004,Michael May,NUR007,Austin Young,Penicillin,Osteoarthritis,2026-04-23 00:39
+PAT0173,MRN-21890398,Barbara Pham,30,Female,A+,Neurology,DOC002,Evan Ramirez,NUR032,Michael Green MD,Sulfa drugs,Hypothyroidism,2025-03-05 09:48
+PAT0174,MRN-41164504,Joshua Kim,18,Male,O-,Oncology,DOC009,Steven Dean,NUR012,Corey Paul,Pollen,Hypertension; COPD,2024-08-22 09:56
+PAT0175,MRN-55092715,Mark Hurst,40,Male,O+,Emergency,DOC017,Brian Salazar,NUR001,Bob Carter,Shellfish; Peanuts,Depression,2026-09-25 04:41
+PAT0176,MRN-31953319,Kristen Leonard,17,Female,O+,Neurology,DOC022,Jacqueline Henderson,NUR029,Pamela French,None recorded,Asthma; COPD,2025-03-24 09:10
+PAT0177,MRN-47139220,Jaclyn Donovan,12,Female,O+,Pediatrics,DOC014,Elizabeth Powell,NUR020,Sara Norris,Pollen; Sulfa drugs,Asthma,2025-01-01 23:39
+PAT0178,MRN-74755672,Lee Woods,61,Male,A+,Oncology,DOC008,Lawrence Brown,NUR016,Crystal Montgomery,None recorded,Hypothyroidism,2026-05-01 15:33
+PAT0179,MRN-78470823,Michelle Harmon,25,Female,O+,Cardiology,DOC005,Bradley Anderson,NUR006,Sarah Martin,Aspirin,Osteoarthritis; COPD,2025-02-06 00:17
+PAT0180,MRN-93415140,Katie Myers,93,Female,O+,Emergency,DOC019,Stephanie Ross,NUR023,Justin Jacobs,None recorded,None recorded,2025-07-02 02:19
+PAT0181,MRN-35441576,Danny Harvey,4,Male,A+,Pediatrics,DOC013,Wanda Ortega,NUR020,Sara Norris,Shellfish,Osteoarthritis,2025-01-15 22:12
+PAT0182,MRN-18961078,David Hamilton,51,Male,A+,Cardiology,DOC004,Michael May,NUR004,Claire Wells,Iodine contrast,Hypertension; Type 2 diabetes,2025-07-13 22:22
+PAT0183,MRN-70233792,John Allen,38,Male,O+,Cardiology,DOC004,Michael May,NUR009,Jason Ward,Aspirin; Iodine contrast,None recorded,2026-04-01 01:10
+PAT0184,MRN-33190953,Catherine Wyatt,52,Female,O+,Cardiology,DOC006,Mr. Christopher Sanchez,NUR009,Jason Ward,Sulfa drugs,Osteoarthritis; Asthma,2025-08-21 21:15
+PAT0185,MRN-12097124,Jennifer Buckley,7,Female,A+,Pediatrics,DOC013,Wanda Ortega,NUR018,Christina Bradley,Penicillin; Aspirin,Depression; COPD,2026-07-18 11:33
+PAT0186,MRN-47866165,Andrew Jones,61,Male,A+,Cardiology,DOC004,Michael May,NUR007,Austin Young,Sulfa drugs; Shellfish,Hypothyroidism; Type 2 diabetes,2025-02-10 10:09
+PAT0187,MRN-93925491,Mary Manning,31,Female,A+,Cardiology,DOC004,Michael May,NUR006,Sarah Martin,None recorded,None recorded,2026-01-31 01:57
+PAT0188,MRN-75961217,Richard Davis,63,Male,B+,Neurology,DOC024,Donald Keller,NUR032,Michael Green MD,Sulfa drugs,Depression; Chronic kidney disease,2024-11-15 09:45
+PAT0189,MRN-40229204,Steven Flores,67,Male,A+,Emergency,DOC018,Michele Sims,NUR025,Sharon Wright,Iodine contrast,COPD,2025-09-01 08:18
+PAT0190,MRN-34347668,Kristin Vincent,26,Female,B+,Neurology,DOC024,Donald Keller,NUR031,Timothy Olsen,Penicillin,None recorded,2026-01-04 05:22
+PAT0191,MRN-22982004,Sean Harper,31,Male,B+,Oncology,DOC007,Heather Taylor,NUR015,Jonathan Bradley,Aspirin; Peanuts,Hypertension,2026-02-15 01:50
+PAT0192,MRN-80095448,Jennifer Garcia,69,Female,O-,Neurology,DOC024,Donald Keller,NUR035,Brian Foster,None recorded,Chronic kidney disease,2025-02-02 18:57
+PAT0193,MRN-92182527,Daniel Holmes,24,Male,A+,Neurology,DOC022,Jacqueline Henderson,NUR030,Michael Wong,Peanuts; Aspirin,Osteoarthritis; Chronic kidney disease,2026-07-03 01:20
+PAT0194,MRN-23930578,Joe Mendoza,68,Male,O+,Oncology,DOC007,Heather Taylor,NUR016,Crystal Montgomery,Pollen; Penicillin,Hypertension; Chronic kidney disease,2025-03-07 21:03
+PAT0195,MRN-80713620,Mike Erickson,14,Male,A+,Pediatrics,DOC016,Mr. Benjamin Salas,NUR002,Fiona Doyle,Sulfa drugs; Penicillin,Chronic kidney disease,2025-06-18 22:54
+PAT0196,MRN-17007918,Jessica Horton,67,Female,O+,Neurology,DOC002,Evan Ramirez,NUR029,Pamela French,None recorded,None recorded,2024-11-07 18:58
+PAT0197,MRN-36869807,Sandra Flores,46,Female,A+,Cardiology,DOC003,Lisa Brown,NUR005,Jennifer Glenn,Peanuts,None recorded,2025-01-29 18:38
+PAT0198,MRN-45541782,Brian Jenkins,61,Male,O+,Neurology,DOC024,Donald Keller,NUR029,Pamela French,Shellfish,None recorded,2025-12-09 16:47
+PAT0199,MRN-62089619,Jesse Swanson,64,Male,A-,Oncology,DOC011,Julie Jennings,NUR013,Julie Gonzalez,Pollen; Sulfa drugs,Osteoarthritis,2026-08-25 01:22
+PAT0200,MRN-72490452,Peter Rodriguez,20,Male,O+,Emergency,DOC018,Michele Sims,NUR024,Anthony Collier,None recorded,Asthma,2024-09-30 13:36
+PAT0201,MRN-53280521,Julie Rose,63,Female,A-,Emergency,DOC019,Stephanie Ross,NUR026,Jacob Washington,None recorded,Hypertension,2026-03-31 05:55
+PAT0202,MRN-43927037,Wesley Harmon,68,Male,O+,Emergency,DOC017,Brian Salazar,NUR001,Bob Carter,None recorded,None recorded,2024-10-27 05:15
+PAT0203,MRN-60318525,Curtis Alexander,56,Male,O+,Oncology,DOC009,Steven Dean,NUR010,Kevin Gordon,Aspirin,None recorded,2025-06-05 06:10
+PAT0204,MRN-21351504,Ashley Lee,15,Female,O+,Pediatrics,DOC016,Mr. Benjamin Salas,NUR022,Susan Lopez,Latex; Shellfish,Hypothyroidism; Hypertension,2025-05-16 17:13
+PAT0205,MRN-44058351,James Jones,35,Male,O+,Oncology,DOC009,Steven Dean,NUR016,Crystal Montgomery,None recorded,Depression; Hypothyroidism,2025-05-27 07:10
+PAT0206,MRN-96560590,Valerie Allen,95,Female,A-,Emergency,DOC017,Brian Salazar,NUR025,Sharon Wright,Peanuts; Penicillin,None recorded,2025-10-28 15:28
+PAT0207,MRN-85141679,Lindsay Gonzalez,11,Female,O+,Pediatrics,DOC016,Mr. Benjamin Salas,NUR017,Christina Ross,Latex; Aspirin,None recorded,2026-02-12 19:43
+PAT0208,MRN-43623407,Jennifer Morton,44,Female,AB+,Emergency,DOC021,Robert Hart,NUR024,Anthony Collier,Pollen; Iodine contrast,None recorded,2025-06-23 06:35
+PAT0209,MRN-83079320,Ryan Mendoza,75,Male,B+,Cardiology,DOC001,Alice Bennett,NUR005,Jennifer Glenn,Latex; Penicillin,Depression; Asthma,2024-10-04 08:32
+PAT0210,MRN-15727361,Alexander Baker,35,Male,B+,Emergency,DOC021,Robert Hart,NUR024,Anthony Collier,Shellfish; Pollen,Type 2 diabetes; COPD,2024-08-27 03:05
+PAT0211,MRN-52471642,Jeremiah Cowan,51,Male,A+,Cardiology,DOC003,Lisa Brown,NUR007,Austin Young,Shellfish; Pollen,Hypertension,2024-11-25 20:51
+PAT0212,MRN-42698388,Anne Garza,47,Female,O+,Neurology,DOC025,Michael Jackson,NUR031,Timothy Olsen,Sulfa drugs; Penicillin,Hypertension; COPD,2026-09-20 21:11
+PAT0213,MRN-94695473,Wendy Woods,2,Female,O+,Pediatrics,DOC013,Wanda Ortega,NUR002,Fiona Doyle,Penicillin; Aspirin,None recorded,2024-11-15 16:50
+PAT0214,MRN-17729113,Sheri Simpson,8,Female,O+,Pediatrics,DOC016,Mr. Benjamin Salas,NUR018,Christina Bradley,Sulfa drugs,Hypertension,2025-12-23 23:16
+PAT0215,MRN-63822842,Thomas Simmons,50,Male,A+,Neurology,DOC024,Donald Keller,NUR031,Timothy Olsen,Sulfa drugs,Depression; Type 2 diabetes,2024-07-09 03:32
+PAT0216,MRN-10809671,Robert Le,61,Male,A+,Cardiology,DOC004,Michael May,NUR007,Austin Young,Pollen; Shellfish,COPD,2024-07-29 15:27
+PAT0217,MRN-85501514,Jacob Barajas,10,Male,A+,Pediatrics,DOC012,Hannah Franco,NUR021,Angela Flores,None recorded,Hypothyroidism; Hypertension,2025-10-01 12:18
+PAT0218,MRN-88852055,Betty Castillo,54,Female,A+,Cardiology,DOC003,Lisa Brown,NUR006,Sarah Martin,None recorded,Hypertension,2024-12-30 12:35
+PAT0219,MRN-51838435,Danny Cooper,64,Male,A+,Cardiology,DOC001,Alice Bennett,NUR004,Claire Wells,None recorded,None recorded,2026-08-02 23:01
+PAT0220,MRN-44426849,Elizabeth Howe,72,Female,O+,Oncology,DOC011,Julie Jennings,NUR010,Kevin Gordon,Latex,Hypothyroidism,2026-06-12 00:05
+PAT0221,MRN-42917266,Jason Smith,88,Male,O+,Emergency,DOC021,Robert Hart,NUR026,Jacob Washington,Sulfa drugs; Peanuts,None recorded,2024-07-29 08:04
+PAT0222,MRN-15230111,Jennifer Diaz,95,Female,O+,Neurology,DOC024,Donald Keller,NUR031,Timothy Olsen,None recorded,Asthma,2026-09-06 00:41
+PAT0223,MRN-99394370,Diana Johnson MD,15,Female,O+,Pediatrics,DOC014,Elizabeth Powell,NUR020,Sara Norris,Latex,Hypothyroidism,2025-02-26 05:42
+PAT0224,MRN-84419937,Eugene Farrell,22,Male,B-,Oncology,DOC009,Steven Dean,NUR016,Crystal Montgomery,None recorded,COPD,2025-10-24 14:32
+PAT0225,MRN-75676650,Jade Flores,25,Female,A-,Cardiology,DOC004,Michael May,NUR007,Austin Young,None recorded,None recorded,2024-05-01 17:43
+PAT0226,MRN-66117703,Sara Wilson,15,Female,O+,Pediatrics,DOC014,Elizabeth Powell,NUR021,Angela Flores,None recorded,Hypothyroidism; Type 2 diabetes,2025-12-11 20:26
+PAT0227,MRN-78685696,Justin Tapia,73,Male,O-,Oncology,DOC009,Steven Dean,NUR011,Katie Cook,None recorded,Chronic kidney disease,2024-08-13 07:12
+PAT0228,MRN-86509121,Adam Myers,72,Male,O+,Emergency,DOC021,Robert Hart,NUR001,Bob Carter,Aspirin,Hypertension; Depression,2025-11-02 03:04
+PAT0229,MRN-78150648,Richard Tran,42,Male,B+,Neurology,DOC025,Michael Jackson,NUR032,Michael Green MD,None recorded,COPD,2024-08-01 13:49
+PAT0230,MRN-30333527,Robert Merritt,83,Male,O+,Emergency,DOC018,Michele Sims,NUR028,Patrick Hill,None recorded,Osteoarthritis,2026-05-06 04:15
+PAT0231,MRN-30707516,Rebecca Stewart,12,Female,O+,Pediatrics,DOC013,Wanda Ortega,NUR017,Christina Ross,None recorded,Osteoarthritis; COPD,2026-05-04 03:09
+PAT0232,MRN-18924272,Dawn Thomas,59,Female,O+,Emergency,DOC021,Robert Hart,NUR028,Patrick Hill,Aspirin; Peanuts,COPD,2024-08-11 07:10
+PAT0233,MRN-41091667,Jill Sanders,12,Female,A+,Pediatrics,DOC016,Mr. Benjamin Salas,NUR020,Sara Norris,Latex; Iodine contrast,Hypertension; Hypothyroidism,2025-10-06 04:41
+PAT0234,MRN-77120850,Leroy Rogers,8,Male,A+,Pediatrics,DOC012,Hannah Franco,NUR018,Christina Bradley,Iodine contrast,None recorded,2025-06-13 09:06
+PAT0235,MRN-84189609,Samantha Knight,80,Female,A+,Oncology,DOC008,Lawrence Brown,NUR010,Kevin Gordon,None recorded,Hypothyroidism; COPD,2025-03-13 19:59
+PAT0236,MRN-56318489,Brandy Howell,57,Female,O+,Neurology,DOC002,Evan Ramirez,NUR031,Timothy Olsen,Latex; Shellfish,None recorded,2025-01-27 05:18
+PAT0237,MRN-57358292,Mason Bell,33,Male,A+,Neurology,DOC025,Michael Jackson,NUR030,Michael Wong,Peanuts,None recorded,2024-04-23 10:48
+PAT0238,MRN-10531699,Rose Hooper,20,Female,O+,Neurology,DOC002,Evan Ramirez,NUR032,Michael Green MD,Aspirin; Penicillin,Type 2 diabetes; Depression,2025-05-15 08:17
+PAT0239,MRN-80392286,Jennifer Rivera,4,Female,O+,Pediatrics,DOC014,Elizabeth Powell,NUR002,Fiona Doyle,Pollen,COPD; Hypertension,2025-06-23 22:36
+PAT0240,MRN-48018131,Julia Mcclure,3,Female,O+,Pediatrics,DOC013,Wanda Ortega,NUR021,Angela Flores,None recorded,None recorded,2025-07-03 16:25
+PAT0241,MRN-39994789,William Curry,29,Male,O-,Oncology,DOC008,Lawrence Brown,NUR015,Jonathan Bradley,Sulfa drugs; Shellfish,Chronic kidney disease,2024-12-03 15:00
+PAT0242,MRN-19594397,Joseph Bender,0,Male,O+,Pediatrics,DOC013,Wanda Ortega,NUR020,Sara Norris,Latex; Peanuts,Chronic kidney disease,2024-11-21 01:45
+PAT0243,MRN-26951140,Edward Adams,75,Male,A+,Emergency,DOC017,Brian Salazar,NUR025,Sharon Wright,Latex,None recorded,2025-09-21 19:53
+PAT0244,MRN-19926733,Stacie Miles,5,Female,B+,Pediatrics,DOC014,Elizabeth Powell,NUR018,Christina Bradley,Pollen; Aspirin,Asthma,2024-04-26 00:55
+PAT0245,MRN-30692632,Ashlee Burton,3,Female,B+,Pediatrics,DOC013,Wanda Ortega,NUR017,Christina Ross,Peanuts,Osteoarthritis; Hypothyroidism,2026-09-05 00:43
+PAT0246,MRN-48323892,Sherry Graham,71,Female,O+,Cardiology,DOC006,Mr. Christopher Sanchez,NUR004,Claire Wells,None recorded,Chronic kidney disease,2025-05-10 23:34
+PAT0247,MRN-71361653,Steven Simmons,60,Male,B+,Oncology,DOC008,Lawrence Brown,NUR015,Jonathan Bradley,None recorded,None recorded,2025-02-10 09:33
+PAT0248,MRN-89864051,Mark Contreras,67,Male,A+,Neurology,DOC024,Donald Keller,NUR031,Timothy Olsen,None recorded,COPD; Depression,2026-02-10 16:27
+PAT0249,MRN-94399564,Ruben Zimmerman,94,Male,A+,Oncology,DOC011,Julie Jennings,NUR016,Crystal Montgomery,None recorded,None recorded,2025-05-31 03:19
+PAT0250,MRN-87510352,Ashley Tran,1,Female,O+,Pediatrics,DOC012,Hannah Franco,NUR017,Christina Ross,Shellfish; Iodine contrast,COPD,2025-09-01 07:41
+PAT0251,MRN-64523214,Leonard Kaiser,40,Male,B+,Oncology,DOC007,Heather Taylor,NUR012,Corey Paul,Penicillin,Hypothyroidism,2025-04-29 15:12
+PAT0252,MRN-41294004,Scott Becker,58,Male,A-,Cardiology,DOC005,Bradley Anderson,NUR003,Tina Nelson,None recorded,None recorded,2025-10-14 19:53
+PAT0253,MRN-60514526,James Golden,62,Male,O+,Cardiology,DOC004,Michael May,NUR004,Claire Wells,None recorded,Hypothyroidism; Depression,2026-01-09 08:56
+PAT0254,MRN-24263324,Lauren Parker,37,Female,B+,Neurology,DOC025,Michael Jackson,NUR033,Christopher Murray,None recorded,Type 2 diabetes,2024-12-01 00:21
+PAT0255,MRN-36001643,Randy Smith,46,Male,A+,Emergency,DOC019,Stephanie Ross,NUR027,Mark Williams,Sulfa drugs; Iodine contrast,None recorded,2026-06-01 08:45
+PAT0256,MRN-25587988,Chase Neal,16,Male,B+,Pediatrics,DOC016,Mr. Benjamin Salas,NUR021,Angela Flores,Iodine contrast,Chronic kidney disease; Hypothyroidism,2024-05-20 20:59
+PAT0257,MRN-40497850,Amy Byrd,68,Female,B+,Neurology,DOC024,Donald Keller,NUR034,Kenneth Martin,Latex,None recorded,2026-03-05 22:43
+PAT0258,MRN-34252250,Austin Leonard,29,Male,A+,Neurology,DOC022,Jacqueline Henderson,NUR033,Christopher Murray,Shellfish; Sulfa drugs,Hypertension,2025-11-02 17:03
+PAT0259,MRN-34768996,Andrea Baxter,76,Female,A-,Neurology,DOC023,Kevin Burton,NUR030,Michael Wong,None recorded,Asthma; Osteoarthritis,2026-01-11 13:56
+PAT0260,MRN-58671624,Brittany Chase,10,Female,A+,Pediatrics,DOC013,Wanda Ortega,NUR019,Morgan Schmidt,Aspirin; Penicillin,None recorded,2025-07-31 11:29
+PAT0261,MRN-84049141,Diana Mcmillan,86,Female,A+,Cardiology,DOC003,Lisa Brown,NUR006,Sarah Martin,None recorded,None recorded,2024-07-29 17:15
+PAT0262,MRN-12220229,Sandra Donovan,53,Female,A+,Emergency,DOC018,Michele Sims,NUR024,Anthony Collier,Shellfish; Latex,Depression,2026-04-02 05:07
+PAT0263,MRN-33977492,Hannah Campbell,60,Female,O+,Cardiology,DOC004,Michael May,NUR003,Tina Nelson,None recorded,None recorded,2025-07-29 21:25
+PAT0264,MRN-71768245,Jorge Flores,25,Male,O-,Cardiology,DOC005,Bradley Anderson,NUR005,Jennifer Glenn,Sulfa drugs; Latex,Depression,2025-02-03 16:43
+PAT0265,MRN-26427442,Jennifer Perry,63,Female,O+,Cardiology,DOC004,Michael May,NUR006,Sarah Martin,Iodine contrast,Hypothyroidism; COPD,2024-12-09 18:57
+PAT0266,MRN-11587994,Derek Herrera,77,Male,O+,Cardiology,DOC003,Lisa Brown,NUR006,Sarah Martin,Iodine contrast; Latex,Osteoarthritis; COPD,2025-04-08 19:32
+PAT0267,MRN-97588473,Matthew Fowler MD,88,Male,O-,Neurology,DOC025,Michael Jackson,NUR032,Michael Green MD,None recorded,Hypertension; Osteoarthritis,2025-08-28 03:48
+PAT0268,MRN-19774475,Joseph Reyes,33,Male,B+,Oncology,DOC010,Matthew Ray,NUR014,Samantha Alvarez,Shellfish; Sulfa drugs,Hypothyroidism,2025-01-20 07:56
+PAT0269,MRN-42602860,Thomas Osborne,6,Male,O+,Pediatrics,DOC014,Elizabeth Powell,NUR002,Fiona Doyle,Aspirin,Depression,2025-03-12 13:20
+PAT0270,MRN-65767321,Steven Richardson,35,Male,O+,Neurology,DOC002,Evan Ramirez,NUR032,Michael Green MD,Peanuts; Sulfa drugs,COPD,2026-03-30 17:09
+PAT0271,MRN-58734406,Michelle Greer,46,Female,O+,Emergency,DOC020,Gerald Campbell,NUR026,Jacob Washington,Shellfish,None recorded,2024-07-31 00:27
+PAT0272,MRN-51538427,Brooke Luna,18,Female,A+,Emergency,DOC019,Stephanie Ross,NUR026,Jacob Washington,Shellfish,COPD,2024-06-27 02:57
+PAT0273,MRN-27908352,Michael Armstrong,65,Male,O-,Cardiology,DOC006,Mr. Christopher Sanchez,NUR007,Austin Young,Peanuts; Shellfish,Chronic kidney disease,2025-08-26 09:09
+PAT0274,MRN-81619217,Brian Sanders,25,Male,O+,Oncology,DOC008,Lawrence Brown,NUR015,Jonathan Bradley,Latex,None recorded,2024-10-07 20:50
+PAT0275,MRN-43205355,Lynn Hernandez,24,Female,O+,Emergency,DOC021,Robert Hart,NUR023,Justin Jacobs,Latex,Type 2 diabetes,2026-09-14 17:53
+PAT0276,MRN-28258195,Timothy Mueller,27,Male,O+,Neurology,DOC025,Michael Jackson,NUR034,Kenneth Martin,Iodine contrast; Aspirin,None recorded,2025-07-03 23:28
+PAT0277,MRN-39316427,Brian Smith,27,Male,A-,Cardiology,DOC006,Mr. Christopher Sanchez,NUR004,Claire Wells,Penicillin; Pollen,Type 2 diabetes,2024-05-08 07:33
+PAT0278,MRN-70262400,Samantha Brown,57,Female,B+,Oncology,DOC009,Steven Dean,NUR010,Kevin Gordon,Sulfa drugs; Penicillin,Chronic kidney disease,2025-07-10 02:32
+PAT0279,MRN-77763896,Jamie Weber,84,Female,O+,Neurology,DOC023,Kevin Burton,NUR033,Christopher Murray,Sulfa drugs,None recorded,2025-05-08 08:44
+PAT0280,MRN-55011672,Beth Brown,32,Female,A+,Cardiology,DOC001,Alice Bennett,NUR005,Jennifer Glenn,Sulfa drugs,Depression,2025-05-20 02:12
+PAT0281,MRN-99812687,Kaylee Lindsey,19,Female,O-,Neurology,DOC025,Michael Jackson,NUR030,Michael Wong,None recorded,None recorded,2025-04-10 00:46
+PAT0282,MRN-87229268,Holly Garcia,34,Female,A+,Oncology,DOC011,Julie Jennings,NUR010,Kevin Gordon,None recorded,Asthma; Hypothyroidism,2026-03-12 22:32
+PAT0283,MRN-42473936,John Lawson,94,Male,A+,Emergency,DOC017,Brian Salazar,NUR027,Mark Williams,Penicillin,None recorded,2025-12-13 20:37
+PAT0284,MRN-82669416,Diane Knight,75,Female,O+,Neurology,DOC002,Evan Ramirez,NUR029,Pamela French,None recorded,Depression,2026-03-17 20:25
+PAT0285,MRN-51180159,Teresa Torres,11,Female,O+,Pediatrics,DOC014,Elizabeth Powell,NUR020,Sara Norris,None recorded,None recorded,2026-04-08 01:31
+PAT0286,MRN-22529674,Stephanie Jordan,51,Female,O-,Oncology,DOC011,Julie Jennings,NUR014,Samantha Alvarez,None recorded,Depression,2025-06-24 17:24
+PAT0287,MRN-44272748,Kathleen Nicholson,71,Female,O+,Emergency,DOC020,Gerald Campbell,NUR023,Justin Jacobs,None recorded,Hypertension; Hypothyroidism,2026-09-01 08:28
+PAT0288,MRN-59746315,Brandon Hays,85,Male,O+,Cardiology,DOC003,Lisa Brown,NUR005,Jennifer Glenn,Peanuts,None recorded,2025-07-29 00:13
+PAT0289,MRN-26561837,Dylan Berry,19,Male,O-,Oncology,DOC011,Julie Jennings,NUR016,Crystal Montgomery,None recorded,Type 2 diabetes; Asthma,2024-07-25 03:30
+PAT0290,MRN-54584209,Laura Marks,35,Female,A+,Emergency,DOC020,Gerald Campbell,NUR028,Patrick Hill,Latex; Iodine contrast,Depression; Chronic kidney disease,2026-02-07 02:37
+PAT0291,MRN-16738968,John Ramirez,3,Male,A+,Pediatrics,DOC014,Elizabeth Powell,NUR022,Susan Lopez,Aspirin; Iodine contrast,Depression; Osteoarthritis,2026-08-06 22:34
+PAT0292,MRN-64863939,Jennifer Foley,40,Female,O-,Emergency,DOC019,Stephanie Ross,NUR027,Mark Williams,Sulfa drugs,None recorded,2026-06-17 14:05
+PAT0293,MRN-64680437,Matthew Roberts,10,Male,B+,Pediatrics,DOC012,Hannah Franco,NUR019,Morgan Schmidt,Sulfa drugs; Pollen,None recorded,2026-04-12 13:05
+PAT0294,MRN-32592823,Anna Pacheco,69,Female,A+,Oncology,DOC008,Lawrence Brown,NUR012,Corey Paul,Pollen,Type 2 diabetes; Chronic kidney disease,2024-08-24 21:54
+PAT0295,MRN-45396217,Ashley Stewart,93,Female,A+,Oncology,DOC007,Heather Taylor,NUR011,Katie Cook,None recorded,Osteoarthritis,2025-08-24 20:34
+PAT0296,MRN-74471211,Robert Vargas,55,Male,A+,Oncology,DOC009,Steven Dean,NUR013,Julie Gonzalez,None recorded,Hypothyroidism,2025-02-25 22:24
+PAT0297,MRN-78345751,John Briggs,27,Male,B-,Neurology,DOC022,Jacqueline Henderson,NUR032,Michael Green MD,Latex,Depression; Type 2 diabetes,2026-08-12 08:23
+PAT0298,MRN-88043235,Andrew Moon,29,Male,A+,Cardiology,DOC005,Bradley Anderson,NUR009,Jason Ward,None recorded,Asthma; Type 2 diabetes,2025-06-02 17:16
+PAT0299,MRN-83162104,Wanda Carter,79,Female,O+,Neurology,DOC023,Kevin Burton,NUR033,Christopher Murray,Aspirin; Shellfish,None recorded,2025-04-18 12:11
+PAT0300,MRN-94171328,Jason Stewart,73,Male,A+,Neurology,DOC023,Kevin Burton,NUR029,Pamela French,None recorded,Hypertension; Hypothyroidism,2026-02-24 13:22
